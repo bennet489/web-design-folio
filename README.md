@@ -1,2 +1,3 @@
 # web-design-folio
-a practice for full stack front-end development (HTML, CSS)
+
+a practice for full stack front-end development (HTML, CSS, JavaScript)
